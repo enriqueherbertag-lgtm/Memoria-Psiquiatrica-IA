@@ -93,25 +93,8 @@ Para pacientes ambulatorios, incorpora **conectividad celular LTE-M** y un **ser
 
 ---
 
-## 🚀 Estado del Proyecto
 
-| Componente | Estado |
-|:---|:---|
-| Concepto clínico | ✅ Completado |
-| Especificaciones hardware | ✅ Completado |
-| Firmware drivers | ✅ Completado |
-| Algoritmos de detección | ✅ Completado |
-| Conectividad dual | ✅ Completado |
-| Clasificador IA | ✅ Completado |
-| Servidor filtro | ✅ Completado |
-| Protocolo ambulatorio | ✅ Completado |
-| Software de usuario | ⏳ En desarrollo |
-| Integración FHIR | ⏳ Pendiente |
-| Modelo de negocio | ⏳ Pendiente |
-
----
-
-## 📬 Contacto
+##  Contacto
 
 **Enrique Aguayo H.**  
 Investigador independiente, Mackiber Labs  
@@ -121,7 +104,7 @@ GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
 
 ---
 
-## ⚖️ Licencia
+##  Licencia
 
 El código y documentación de este repositorio están protegidos bajo **Apache 2.0 con restricción de uso comercial**. Para uso comercial se requiere acuerdo por escrito con el autor.
 
