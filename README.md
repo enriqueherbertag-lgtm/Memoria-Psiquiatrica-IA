@@ -1,17 +1,17 @@
-#Memoria-Psiquiatrica-IA - Sistema de Neuromodulación Psiquiátrica Subcutánea
-
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+# Memoria Fija v2.1 - Sistema de Neuromodulación Psiquiátrica Subcutánea
 
 **Dispositivo implantable autónomo para la detección y prevención de crisis en pacientes con trastornos psiquiátricos graves, con conectividad dual (Bluetooth + LTE-M) y clasificador IA en la nube.**
 
-<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/8149396e-7e71-455e-8d7b-9942503e1154" />
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19342950.svg)](https://doi.org/10.5281/zenodo.19342950)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![EN](https://img.shields.io/badge/English-version-blue.svg)](./README.en.md)
 
 
 ---
 
 ##  Descripción General
 
-Memoria-Psiquiatrica-IA es un sistema de neuromodulación subcutánea implantado en la región retroauricular. Monitoriza marcadores fisiológicos de crisis psiquiátrica (agitación, arousal autonómico) e interviene automáticamente en menos de 60 segundos mediante estimulación piezoeléctrica adaptativa.
+Memoria Fija v2.1 es un sistema de neuromodulación subcutánea implantado en la región retroauricular. Monitoriza marcadores fisiológicos de crisis psiquiátrica (agitación, arousal autonómico) e interviene automáticamente en menos de 60 segundos mediante estimulación piezoeléctrica adaptativa.
 
 Para pacientes ambulatorios, incorpora **conectividad celular LTE-M** y un **servidor de filtrado con IA** que clasifica el riesgo y solo notifica al médico cuando es clínicamente relevante.
 
@@ -98,6 +98,23 @@ Para pacientes ambulatorios, incorpora **conectividad celular LTE-M** y un **ser
 
 ---
 
+##  Estado del Proyecto
+
+| Componente | Estado |
+|:---|:---|
+| Concepto clínico | ✅ Completado |
+| Especificaciones hardware | ✅ Completado |
+| Firmware drivers | ✅ Completado |
+| Algoritmos de detección | ✅ Completado |
+| Conectividad dual | ✅ Completado |
+| Clasificador IA | ✅ Completado |
+| Servidor filtro | ✅ Completado |
+| Protocolo ambulatorio | ✅ Completado |
+| Software de usuario | ⏳ En desarrollo |
+| Integración FHIR | ⏳ Pendiente |
+| Modelo de negocio | ⏳ Pendiente |
+
+---
 
 ##  Contacto
 
@@ -106,6 +123,12 @@ Investigador independiente, Mackiber Labs
 Contacto: eaguayo@migst.cl  
 ORCID: 0009-0004-4615-6825  
 GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
+
+---
+
+##  Licencia
+
+El código y documentación de este repositorio están protegidos bajo **Apache 2.0 con restricción de uso comercial**. Para uso comercial se requiere acuerdo por escrito con el autor.
 
 ---
 
